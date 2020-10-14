@@ -5,16 +5,18 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 class ConditionerTest {
+
     @Test
-    public void increaseCurrentTemperature() {
+    void increaseCurrentTemperature() {
         Conditioner conditioner = new Conditioner();
 
 
     }
 
     @Test
-    public void decreaseCurrentTemperature() {
+    void decreaseCurrentTemeperature() {
         Conditioner conditioner = new Conditioner();
+
 
     }
 }
